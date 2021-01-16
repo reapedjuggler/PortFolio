@@ -34,8 +34,6 @@ function About() {
                             <br /> <br /> Being always involved in something, iam always curios to learn about new technology and leverage it to solve real world problems.
                             <br />Feel free to contact me through twitter, email, linkedIn. I would be glad if i can help you in any possible way :
                             <br />
- 
-    
                         </Row>
                     </Col>
   

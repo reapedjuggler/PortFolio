@@ -22,7 +22,7 @@ function About() {
                              <Image className="profile justify-content-end" src={Profile} thumbnail />
                         </Row>
                     </Col>
-
+  
                     {/* -- Buttons -- */}
                     <Col>
                         <Row className=" align-items-start p-2 my-details rounded"> 
@@ -43,7 +43,7 @@ function About() {
                                     
                                     <div>
                                         <a href="#contact">
-                                        <Button className="m-2" variant="outline-success" size = "lg">
+                                        <Button className="m-2" variant="outline-primary" size = "lg">
                                             Let's get in touch
                                         </Button>
                                         </a>
@@ -51,7 +51,7 @@ function About() {
 
                                     <div>
                                         <a href="https://drive.google.com/file/d/1W7FzvQfv4h2zBe5nUrXYJ7Q7bXt63O7e/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-                                        <Button className="m-2" variant="outline-success"  size = "lg">
+                                        <Button className="m-2" variant="outline-primary"  size = "lg">
                                             My Resume
                                         </Button>
                                         </a>
@@ -59,7 +59,7 @@ function About() {
                                     
                                     <div>
                                         <a href="https://github.com/reapedjuggler" target="_blank" rel="noopener noreferrer">
-                                        <Button className="m-2" variant="outline-success" size = "lg">
+                                        <Button className="m-2" variant="outline-primary" size = "lg">
                                             GitHub  
                                         </Button>
                                         </a>
@@ -67,7 +67,7 @@ function About() {
                                     
                                     <div>
                                         <a href="https://www.linkedin.com/in/vibhav-tomar-883282178/" target="_blank" rel="noopener noreferrer">
-                                        <Button className="m-2" variant="outline-success" size = "lg">
+                                        <Button className="m-2" variant="outline-primary" size = "lg">
                                             LinkedIn
                                         </Button>
                                         </a>
@@ -75,7 +75,7 @@ function About() {
         
                                     <div>
                                         <a href = "https://twitter.com/ReapedJ" target="_blank" rel="noopener noreferrer">
-                                        <Button className="m-2" variant = "outline-success" size = "lg">
+                                        <Button className="m-2" variant = "outline-primary" size = "lg">
                                             Twitter
                                         </Button>
                                         </a>

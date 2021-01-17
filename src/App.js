@@ -13,7 +13,7 @@ import backgroundImage from './assets/img/parallex/background.jpg'
 
 const App = () => {
   return (
-    <div className="App">
+    <div className="App" style = {{position: "relative"}}>
        <MyNavbar />
        <Title />
        <Carousel />

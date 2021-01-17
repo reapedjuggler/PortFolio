@@ -8,12 +8,14 @@ const MyNavbar = () => {
     return (
       <React.Fragment>
 
-            <Navbar fixed = "top" collapseOnSelect expand="sm" bg="dark" variant="dark">
+            <Navbar fixed = "top" expand="md" bg="dark" variant="dark"  className="animate-navbar nav-theme justify-content-between">
+            
             <Navbar.Brand href="#home">
                 <img className="logo" src = {Logo} alt = "My Logo"></img>
             </Navbar.Brand>
-            <Navbar.Toggle aria-controls="responsive-navbar-nav" />
-            <Navbar.Collapse id="responsive-navbar-nav">
+
+            <Navbar.Toggle aria-controls="basic-navbar-nav" />
+            <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="ml-auto">
 
                 <Nav.Link href="#home">Home</Nav.Link>    
@@ -21,6 +23,7 @@ const MyNavbar = () => {
                 <Nav.Link href="#about">About</Nav.Link>
                 <Nav.Link href="#skills"> Skills </Nav.Link>
                 <Nav.Link href="#contact"> Contact </Nav.Link>
+
                 </Nav>
             </Navbar.Collapse>
             </Navbar>

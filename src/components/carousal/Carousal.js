@@ -9,7 +9,7 @@ import './carouselCss.css'; // to make it responsive
 function Carousal() {
     return (
         <React.Fragment>
-            <div id = "home">
+            <div id = "home"> 
                 <Carousel controls = {false} indicators interval = {2000} pauseOnHover = {false}>
                     <Carousel.Item>
                        

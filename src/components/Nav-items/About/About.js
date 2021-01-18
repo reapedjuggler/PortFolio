@@ -74,7 +74,7 @@ function About() {
                                     </div>
         
                                     <div>
-                                        <a href = "https://twitter.com/ReapedJ" target="_blank" rel="noopener noreferrer">
+                                        <a href = "https://twitter.com/reapedjuggler" target="_blank" rel="noopener noreferrer">
                                         <Button className="m-2" variant = "outline-primary" size = "lg">
                                             Twitter
                                         </Button>

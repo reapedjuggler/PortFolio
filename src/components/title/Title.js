@@ -24,7 +24,7 @@ const MyStyle = styled.h1`
     }
 
     .sub {
-        color: lightpink;
+        color: orange;
         font-family: Monospace;
         font-size: 27px;
         letter-spacing: 3px;

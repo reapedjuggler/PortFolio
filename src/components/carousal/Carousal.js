@@ -3,6 +3,7 @@ import Carousel from 'react-bootstrap/Carousel';
 import slide1 from '../../assets/img/carousal/slide2.png';
 import slide2 from '../../assets/img/carousal/slide99.jpg';
 import slide3 from '../../assets/img/carousal/slide6.png';
+
 import Scroll from '../scroll/Scroll';
 import './carouselCss.css'; // to make it responsive 
 

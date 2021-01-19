@@ -7,6 +7,7 @@ import MyNavbar from './components/my-navbar/Navbar'
 import Carousel from './components/carousal/Carousal'
 import Title from './components/title/Title'
 import About from './components/Nav-items/About/About'
+import Tech from './components/Nav-items/tech/Tech'
 
 import './App.css';
 import backgroundImage from './assets/img/parallex/background.jpg'
@@ -14,9 +15,11 @@ import backgroundImage from './assets/img/parallex/background.jpg'
 const App = () => {
   return (
     <div className="App" style = {{position: "relative"}}>
+       
        <MyNavbar />
        <Title />
        <Carousel />
+      
        <div>
          <Parallax blur={{ min: -30, max: 30 }}
           bgImage={backgroundImage}
@@ -30,7 +33,16 @@ const App = () => {
                 </Fade>
               </Container>
             </div>
+
           </Parallax>
+       </div>
+       
+       <div>
+        <Container>
+          <Fade>
+            <Tech />
+          </Fade>
+        </Container>
        </div>
     </div>
 

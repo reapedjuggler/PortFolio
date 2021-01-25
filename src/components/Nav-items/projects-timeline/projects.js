@@ -16,7 +16,6 @@ import L_REACT_BOOTSTRAP from "../../../assets/img/skills/react-bootstrap.svg";
 import L_STYLED_COMPONENTS from "../../../assets/img/skills/styled-components.svg";
 import L_NODE_JS from "../../../assets/img/skills/nodejs.svg";
 import L_EXPRESS from "../../../assets/img/skills/express.svg";
-// import L_PYTHON from "../../../assets/img/skills/express.svg";
 import L_MONGODB from "../../../assets/img/skills/mongodb.svg";
 import L_POSTGRESQL from "../../../assets/img/skills/postgresql.svg";
 import L_GIT from "../../../assets/img/skills/git-icon.svg";
@@ -27,13 +26,16 @@ import L_MYSQL from '../../../assets/img/skills/mysql.png'
 import CPP from '../../../assets/img/skills/cpp.jpg';
 import L_SOCKET from '../../../assets/img/projects/scoket.svg'
 import L_ChatBot from '../../../assets/img/projects/chatbot.jpg'
+import L_TAXI from '../../../assets/img/projects/taxi.jpg'
+import Profile from '../../../assets/img/projects/portfolio.webp'
+import ToDoApp from '../../../assets/img/projects/todoapp.jpeg'
 
 const Project = () => {
     return (
 
         <div id = "projects">
 
-            <h1 className="pt-3 text-center font-details-b pb-3">PROJECTS</h1>
+            <h1 className="pt-3 text-center font-details-b pb-3 custom">PROJECTS</h1>
             <Timeline>
                 <Events>
 
@@ -42,7 +44,7 @@ const Project = () => {
                             // date="01/10/2020"
                             className="text-center"
                             text="ToDo App"
-                            // src={}
+                            src={ToDoApp}
                             alt="ME ToDo App"
                         >
                             <div className="d-flex justify-content-between flex-column mt-1">
@@ -139,7 +141,6 @@ const Project = () => {
 
                     {/* Project: React Chat App */}
                     <ImageEvent
-                                date="16/09/2020"
                                 className="text-center"
                                 text="Chat Bot"
                                 src={L_ChatBot}
@@ -226,7 +227,7 @@ const Project = () => {
                                     href="https://github.com/reapedjuggler/Chat-Application"
                                     target="_blank"
                                     >
-                                    SOURCE CODE
+                                    Gihtub Repository
                                     </UrlButton>
     
                                 </div>
@@ -238,7 +239,7 @@ const Project = () => {
                     <ImageEvent
                                 className="text-center"
                                 text="XRides"
-                                // src={L_MernTipCalc}
+                                src={L_TAXI}
                                 alt="Xrides"
                             >
                                 <div className="d-flex justify-content-between flex-column mt-1">
@@ -319,11 +320,11 @@ const Project = () => {
                                 </div>
                             </ImageEvent>
 
-                    {/* Project: XRides */}
+                    {/* Project: PortFolio */}
                     <ImageEvent
                                 className="text-center"
                                 text="Portfolio"
-                                // src={L_MernTipCalc}
+                                src={Profile}
                                 alt="My Portfolio"
                             >
                                 <div className="d-flex justify-content-between flex-column mt-1">

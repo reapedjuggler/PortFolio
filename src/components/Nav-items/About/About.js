@@ -51,15 +51,15 @@ function About() {
                                     
                                     <div>
                                         <a href="https://github.com/reapedjuggler" target="_blank" rel="noopener noreferrer">
-                                        <Button className="m-2" variant="outline-primary" size = "lg">
-                                            GitHub  
+                                        <Button className="m-2 fab fa-github-square" variant="outline-dark" size = "lg">
+                                            &nbsp; GitHub  
                                         </Button>
                                         </a>
                                     </div>
                                     
                                     <div>
                                         <a href="https://www.linkedin.com/in/vibhav-tomar-883282178/" target="_blank" rel="noopener noreferrer">
-                                        <Button className="m-2" variant="outline-primary" size = "lg">
+                                        <Button className="m-2" variant="outline-info" size = "lg">
                                             LinkedIn
                                         </Button>
                                         </a>
@@ -67,8 +67,8 @@ function About() {
         
                                     <div>
                                         <a href = "https://twitter.com/reapedjuggler" target="_blank" rel="noopener noreferrer">
-                                        <Button className="m-2" variant = "outline-primary" size = "lg">
-                                            Twitter
+                                        <Button className="m-2 fab fa-twitter" variant = "outline-primary" size = "lg">
+                                            &nbsp; Twitter
                                         </Button>
                                         </a>
                                     </div>

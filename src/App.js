@@ -9,6 +9,7 @@ import Title from './components/title/Title'
 import About from './components/Nav-items/About/About'
 import Tech from './components/Nav-items/tech/Tech'
 import Project from './components/Nav-items/projects-timeline/projects'
+import Contact from './components/Nav-items/contact/contact'
 
 import './App.css';
 import backgroundImage from './assets/img/parallex/background.jpg'
@@ -30,6 +31,7 @@ const App = () => {
             <div>
               <Container className="container-box rounded">
                 <Fade duration = {500}>
+                  <hr />
                       <About />
                 </Fade>
               </Container>
@@ -41,6 +43,7 @@ const App = () => {
        <div>
         <Container>
           <Fade>
+            <hr />
             <Tech />
           </Fade>
         </Container>
@@ -50,10 +53,22 @@ const App = () => {
        <div>
         <Container>
           <Fade>
+            <hr />
             <Project />
           </Fade>
         </Container>
        </div>
+
+                    
+       <div>
+        <Container>
+          <Fade>
+            <hr />
+            <Contact />
+          </Fade>
+        </Container>
+       </div>
+
 
     </div>
 

@@ -207,12 +207,12 @@ const Project = () => {
                                             <li>
                                                 <span className="p-2">
                                                 <Image
-                                                    src={L_MONGODB}
-                                                    alt="MongoDB"
+                                                    src={L_NODE_JS}
+                                                    alt="Nodejs"
                                                     rounded
                                                     className="image-style1 m-1"
                                                 ></Image>{" "}
-                                                MongoDB
+                                                Nodejs
                                                 </span>
                                             </li>
                                             </ul>

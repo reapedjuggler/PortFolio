@@ -8,6 +8,7 @@ import Carousel from './components/carousal/Carousal'
 import Title from './components/title/Title'
 import About from './components/Nav-items/About/About'
 import Tech from './components/Nav-items/tech/Tech'
+import Project from './components/Nav-items/projects-timeline/projects'
 
 import './App.css';
 import backgroundImage from './assets/img/parallex/background.jpg'
@@ -44,6 +45,16 @@ const App = () => {
           </Fade>
         </Container>
        </div>
+
+             
+       <div>
+        <Container>
+          <Fade>
+            <Project />
+          </Fade>
+        </Container>
+       </div>
+
     </div>
 
   );

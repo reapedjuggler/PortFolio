@@ -24,6 +24,7 @@ const Tech = () => {
                 <span className = "custom">
                     SKILLS
                 </span> 
+                <hr></hr>
             </h1>
             <CardDeck>
                 <Row className="d-flex justify-content-around">

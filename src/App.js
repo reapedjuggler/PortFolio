@@ -10,6 +10,7 @@ import About from './components/Nav-items/About/About'
 import Tech from './components/Nav-items/tech/Tech'
 import Project from './components/Nav-items/projects-timeline/projects'
 import Contact from './components/Nav-items/contact/contact'
+import Footer from './components/Nav-items/footer/footer'
 
 import './App.css';
 import backgroundImage from './assets/img/parallex/background.jpg'
@@ -69,6 +70,7 @@ const App = () => {
         </Container>
        </div>
 
+      <Footer />
 
     </div>
 

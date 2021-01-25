@@ -42,7 +42,7 @@ const Project = () => {
                     {/* Project: Todo List With Express and Mongodb */}
                     <ImageEvent
                             // date="01/10/2020"
-                            className="text-center"
+                            className="text-center custom"
                             text="ToDo App"
                             src={ToDoApp}
                             alt="ME ToDo App"
@@ -141,7 +141,7 @@ const Project = () => {
 
                     {/* Project: React Chat App */}
                     <ImageEvent
-                                className="text-center"
+                                className="text-center custom"
                                 text="Chat Bot"
                                 src={L_ChatBot}
                                 alt="Chat bot using React and Socketio"
@@ -237,7 +237,7 @@ const Project = () => {
 
                     {/* Project: XRides */}
                     <ImageEvent
-                                className="text-center"
+                                className="text-center custom"
                                 text="XRides"
                                 src={L_TAXI}
                                 alt="Xrides"
@@ -322,7 +322,7 @@ const Project = () => {
 
                     {/* Project: PortFolio */}
                     <ImageEvent
-                                className="text-center"
+                                className="text-center custom"
                                 text="Portfolio"
                                 src={Profile}
                                 alt="My Portfolio"

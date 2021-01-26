@@ -2,6 +2,11 @@ import React from 'react';
 import Fade from 'react-reveal/Fade';
 import { Parallax } from 'react-parallax'
 import Container from 'react-bootstrap/Container';
+<<<<<<< HEAD
+=======
+import Particles from 'react-particles-js';
+import {particlesOptions} from './components/carousal/particleOptions'
+>>>>>>> 5e506cf281e0fe8b9ccfc105e8f0f7a529c39948
 
 import MyNavbar from './components/my-navbar/Navbar'
 import Carousel from './components/carousal/Carousal'

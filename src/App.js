@@ -2,6 +2,8 @@ import React from 'react';
 import Fade from 'react-reveal/Fade';
 import { Parallax } from 'react-parallax'
 import Container from 'react-bootstrap/Container';
+import Particles from 'react-particles-js';
+import {particlesOptions} from './components/carousal/particleOptions'
 
 import MyNavbar from './components/my-navbar/Navbar'
 import Carousel from './components/carousal/Carousal'
@@ -12,8 +14,11 @@ import Project from './components/Nav-items/projects-timeline/projects'
 import Contact from './components/Nav-items/contact/contact'
 import Footer from './components/Nav-items/footer/footer'
 
+
 import './App.css';
 import backgroundImage from './assets/img/parallex/background.jpg'
+import Cat from './assets/img/background/catbg.png'
+
 
 const App = () => {
   return (
@@ -43,23 +48,31 @@ const App = () => {
        
        <div>
         <Container>
-          <Fade>
+          <Fade bgImage = {Cat}>
             <hr />
             <Tech />
           </Fade>
         </Container>
        </div>
 
-             
        <div>
-        <Container>
-          <Fade>
-            <hr />
-            <Project />
-          </Fade>
-        </Container>
-       </div>
+         <Parallax
+          bgImage={Cat}
+          bgImageAlt=""
+          strength={-200}>
 
+            <div>
+              <Container className="container-box rounded">
+                <Fade duration = {500}>
+                  <hr />
+                      <Project />
+                </Fade>
+              </Container>
+            </div>
+
+          </Parallax>
+       </div>
+       
                     
        <div>
         <Container>
@@ -70,6 +83,7 @@ const App = () => {
         </Container>
        </div>
 
+      <hr />
       <Footer />
 
     </div>

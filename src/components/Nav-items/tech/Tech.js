@@ -4,6 +4,7 @@ import CardDeck from 'react-bootstrap/CardDeck'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 import Image from 'react-bootstrap/Image'
+import Cat from '../../../assets/img/background/catbg.png'
 
 import { tech } from "./data.js";
 

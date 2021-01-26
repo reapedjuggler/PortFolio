@@ -33,7 +33,7 @@ export const tech = {
         },
 
         {
-            link: "jquery.com",
+            link: "https://jQuery.com",
             alt: "jQuery",
             imgSrc: L_JQUERY,
             name: "jQuery",

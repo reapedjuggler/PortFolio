@@ -10,7 +10,6 @@ import "./projects.css";
 
 import L_HTML5 from "../../../assets/img/skills/html-5.svg";
 import L_CSS3 from "../../../assets/img/skills/css3.svg";
-import L_BOOTSTRAP from "../../../assets/img/skills/bootstrap-4.svg";
 import L_REACT from "../../../assets/img/skills/react.svg";
 import L_REACT_BOOTSTRAP from "../../../assets/img/skills/react-bootstrap.svg";
 import L_STYLED_COMPONENTS from "../../../assets/img/skills/styled-components.svg";
@@ -18,12 +17,6 @@ import L_NODE_JS from "../../../assets/img/skills/nodejs.svg";
 import L_EXPRESS from "../../../assets/img/skills/express.svg";
 import L_MONGODB from "../../../assets/img/skills/mongodb.svg";
 import L_POSTGRESQL from "../../../assets/img/skills/postgresql.svg";
-import L_GIT from "../../../assets/img/skills/git-icon.svg";
-import L_HEROKU from "../../../assets/img/skills/heroku.svg";
-import L_JAVASCRIPT from "../../../assets/img/skills/javascript.svg";
-import L_JQUERY from '../../../assets/img/skills/jqeury.png'
-import L_MYSQL from '../../../assets/img/skills/mysql.png'
-import CPP from '../../../assets/img/skills/cpp.jpg';
 import L_SOCKET from '../../../assets/img/projects/scoket.svg'
 import L_ChatBot from '../../../assets/img/projects/chatbot.jpg'
 import L_TAXI from '../../../assets/img/projects/taxi.jpg'
@@ -313,7 +306,7 @@ const Project = () => {
                                     href="https://github.com/reapedjuggler/XRides"
                                     target="_blank"
                                     >
-                                    SOURCE CODE
+                                    Github Repository
                                     </UrlButton>
     
                                 </div>
@@ -397,7 +390,7 @@ const Project = () => {
                                     href="https://github.com/reapedjuggler/Portfolio"
                                     target="_blank"
                                     >
-                                    Github Repo
+                                    Github Repository
                                     </UrlButton>
     
                                 </div>

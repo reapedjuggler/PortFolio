@@ -30,12 +30,12 @@ function About() {
                                 <h3><strong>Hello folk! I'm Vibhav</strong></h3>
                     
                                 <br /> A Curios programmer with an endless appetite for learning, I'm a Sport Programmer and a Web Developer from New Delhi, India.
-                                Currently iam exploring stuff as an undergraduate in Computer Science Engineering, at Jaypee Institute of Information Technology Noida.
+                                Currently I am exploring stuff as an undergraduate in Computer Science Engineering, at Jaypee Institute of Information Technology Noida.
                                 <br /> <br />
-                                I am always passionate about helping people through my problem skills and thus, i believe in growing as a team.
+                                I am always passionate about helping people through my problem solving skills and thus, I believe in growing as a team.
                                 <br /> <br />
-                                Along with Sport Programming, Anime,Chess, Speed-Cubing, Table-Tennis and Music are my other hobbies.
-                                <br /> <br /> Being always involved in something, iam always curios to learn about new technology and leverage it to solve real world problems.
+                                Along with Sport Programming, Watching Anime, Chess, Speed-Cubing, Table-Tennis and Music are my other hobbies.
+                                <br /> <br /> Being always involved in something, I am always curios to learn about new technology and leverage it to solve real world problems.
                                 <br />Feel free to contact me through twitter, email, linkedIn. I would be glad if i can help you in any possible way.
                                 <br />
                 

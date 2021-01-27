@@ -34,7 +34,7 @@ function About() {
                                 <br /> <br />
                                 I am always passionate about helping people through my problem solving skills and thus, I believe in growing as a team.
                                 <br /> <br />
-                                Along with Sport Programming, Watching Anime, Chess, Speed-Cubing, Table-Tennis and Music are my other hobbies.
+                                Along with Sport Programming, Reading Books, Watching Anime, Chess, Speed-Cubing, Table-Tennis and Music are my other hobbies.
                                 <br /> <br /> Being always involved in something, I am always curious to learn about new technology and leverage it to solve real world problems.
                                 <br />Feel free to contact me through twitter, email, linkedIn. I would be glad if I can help you in any possible way.
                                 <br />

@@ -32,13 +32,13 @@ const Project = () => {
             <Timeline>
                 <Events>
 
-                    {/* Project: Todo List With Express and Mongodb */}
+                    {/* Project: Todo List With MERN stack */}
                     <ImageEvent
                             // date="01/10/2020"
                             className="text-center custom"
                             text="ToDo App"
                             src={ToDoApp}
-                            alt="ME ToDo App"
+                            alt="MERN ToDo App"
                         >
                             <div className="d-flex justify-content-between flex-column mt-1">
                             <div>
@@ -54,41 +54,20 @@ const Project = () => {
 
                                     <Accordion.Collapse eventKey="0" className="text-left">
                                     <Card.Body>
-                                        <strong>Description:</strong> This is a Todo app created with MongoDB and Express that keeps a track of your Todos
+                                        <strong>Description:</strong> This is a Todo app created with MERN stack which keeps a track of your Todos
                                         <hr />
                                         <strong>Features:</strong>
                                         <ul className="list-styles pt-1">
                                     
-                                            <li>Keeps track of your Todos</li>
-                                            <li>Powered by MongoDB and Express</li>
-                                            <li> Flexibility of updating or removing Todos </li>
+                                            <li> Keeps track of your Todos</li>
+                                            <li> Powered by MERN stack </li>
+                                            <li> Feature of Removing ToDo </li>
                                         
                                         </ul>
                                         <hr />
                                         <strong>Tech used:</strong>
                                         <ul>
-                                        <li>
-                                            <span className="p-2">
-                                            <Image
-                                                src={L_HTML5}
-                                                alt="HTML 5"
-                                                rounded
-                                                className="image-style m-1"
-                                            ></Image>{" "}
-                                            HTML5
-                                            </span>
-                                        </li>
-                                        <li>
-                                            <span className="p-2">
-                                            <Image
-                                                src={L_CSS3}
-                                                alt="CSS 3"
-                                                rounded
-                                                className="image-style m-1"
-                                            ></Image>{" "}
-                                            CSS3
-                                            </span>
-                                        </li>
+
                                         <li>
                                             <span className="p-2">
                                             <Image
@@ -111,6 +90,30 @@ const Project = () => {
                                             Express.js
                                             </span>
                                         </li>
+
+                                        <li>
+                                            <span className="p-2">
+                                            <Image
+                                                src={L_REACT}
+                                                alt="Reactjs"
+                                                rounded
+                                                className="image-style m-1"
+                                            ></Image>{" "}
+                                            React.js
+                                            </span>
+                                        </li>
+
+                                        <li>
+                                            <span className="p-2">
+                                            <Image
+                                                src={L_NODE_JS}
+                                                alt="Nodejs"
+                                                rounded
+                                                className="image-style m-1"
+                                            ></Image>{" "}
+                                            Node.js
+                                            </span>
+                                        </li>
                                         
                                         </ul>
                                     </Card.Body>
@@ -121,7 +124,7 @@ const Project = () => {
                             <div className="d-flex justify-content-between flex-nowrap text-center">
 
                                 <UrlButton
-                                href="https://github.com/reapedjuggler/ToDoList-with-MongoDB"
+                                href="https://github.com/reapedjuggler/MERN-toDo-App"
                                 target="_blank"
                                 >
                                 Gihtub Repository

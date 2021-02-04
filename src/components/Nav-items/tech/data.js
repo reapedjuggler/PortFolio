@@ -15,6 +15,7 @@ import L_JAVASCRIPT from "../../../assets/img/skills/javascript.svg";
 import L_JQUERY from '../../../assets/img/skills/jqeury.png'
 import L_MYSQL from '../../../assets/img/skills/mysql.png'
 import CPP from '../../../assets/img/skills/cpp.jpg';
+import reactRedux from '../../../assets/img/skills/react-redux.png';
 
 export const tech = {
 
@@ -67,6 +68,13 @@ export const tech = {
             imgSrc: L_STYLED_COMPONENTS,
             name: "styled-components",
         },
+
+        {
+            link:"https://redux.js.org/",
+            alt: "React-Redux",
+            imgSrc: reactRedux,
+            name: "React-Redux"
+        }
 
 
     ],

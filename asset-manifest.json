@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.48ee5008.chunk.css",
-    "main.js": "/portfolio/static/js/main.00e41375.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.00e41375.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.c06b774a.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c06b774a.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.c696b2ec.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.c696b2ec.js.map",
     "static/js/2.415e9bc4.chunk.js": "/portfolio/static/js/2.415e9bc4.chunk.js",
@@ -31,6 +31,7 @@
     "static/media/postgresql.ae92b576.svg": "/portfolio/static/media/postgresql.ae92b576.svg",
     "static/media/profile.9d4aa661.jpg": "/portfolio/static/media/profile.9d4aa661.jpg",
     "static/media/react-bootstrap.534ba574.svg": "/portfolio/static/media/react-bootstrap.534ba574.svg",
+    "static/media/react-redux.45917d58.png": "/portfolio/static/media/react-redux.45917d58.png",
     "static/media/react.add74742.svg": "/portfolio/static/media/react.add74742.svg",
     "static/media/scoket.aa27363b.svg": "/portfolio/static/media/scoket.aa27363b.svg",
     "static/media/slide2.5e3e25b1.png": "/portfolio/static/media/slide2.5e3e25b1.png",
@@ -44,6 +45,6 @@
     "static/js/runtime-main.c696b2ec.js",
     "static/js/2.415e9bc4.chunk.js",
     "static/css/main.48ee5008.chunk.css",
-    "static/js/main.00e41375.chunk.js"
+    "static/js/main.c06b774a.chunk.js"
   ]
 }

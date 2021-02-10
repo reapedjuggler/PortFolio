@@ -42,7 +42,7 @@ function About() {
                                 <Col className="d-flex justify-content-center flex-wrap">
                                 
                                     <div>
-                                        <a href="https://drive.google.com/file/d/1W7FzvQfv4h2zBe5nUrXYJ7Q7bXt63O7e/view" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://drive.google.com/file/d/158wzFCSFyz5H6-N1CX6yshGO8FLbQeu3/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                         <Button className="m-2" variant="outline-primary"  size = "lg">
                                             My Resume
                                         </Button>

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.48ee5008.chunk.css",
-    "main.js": "/portfolio/static/js/main.75237035.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.75237035.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.b98526fe.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b98526fe.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.c696b2ec.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.c696b2ec.js.map",
-    "static/js/2.415e9bc4.chunk.js": "/portfolio/static/js/2.415e9bc4.chunk.js",
-    "static/js/2.415e9bc4.chunk.js.map": "/portfolio/static/js/2.415e9bc4.chunk.js.map",
+    "static/js/2.ad69f81f.chunk.js": "/portfolio/static/js/2.ad69f81f.chunk.js",
+    "static/js/2.ad69f81f.chunk.js.map": "/portfolio/static/js/2.ad69f81f.chunk.js.map",
     "static/js/3.9083f3ff.chunk.js": "/portfolio/static/js/3.9083f3ff.chunk.js",
     "static/js/3.9083f3ff.chunk.js.map": "/portfolio/static/js/3.9083f3ff.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/main.48ee5008.chunk.css.map": "/portfolio/static/css/main.48ee5008.chunk.css.map",
-    "static/js/2.415e9bc4.chunk.js.LICENSE.txt": "/portfolio/static/js/2.415e9bc4.chunk.js.LICENSE.txt",
+    "static/js/2.ad69f81f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ad69f81f.chunk.js.LICENSE.txt",
     "static/media/contact.css": "/portfolio/static/media/background.48c0b661.webp",
     "static/media/bootstrap-4.997c463d.svg": "/portfolio/static/media/bootstrap-4.997c463d.svg",
     "static/media/catbg.d22ee647.png": "/portfolio/static/media/catbg.d22ee647.png",
@@ -25,6 +25,7 @@
     "static/media/javascript.ba40d6a9.svg": "/portfolio/static/media/javascript.ba40d6a9.svg",
     "static/media/jqeury.6d21b03d.png": "/portfolio/static/media/jqeury.6d21b03d.png",
     "static/media/logo.549cefa0.jpg": "/portfolio/static/media/logo.549cefa0.jpg",
+    "static/media/memory.141ca0a2.webp": "/portfolio/static/media/memory.141ca0a2.webp",
     "static/media/mongodb.d89a6eeb.svg": "/portfolio/static/media/mongodb.d89a6eeb.svg",
     "static/media/nodejs.52cbf9a8.svg": "/portfolio/static/media/nodejs.52cbf9a8.svg",
     "static/media/portfolio.a25b42f6.webp": "/portfolio/static/media/portfolio.a25b42f6.webp",
@@ -43,8 +44,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c696b2ec.js",
-    "static/js/2.415e9bc4.chunk.js",
+    "static/js/2.ad69f81f.chunk.js",
     "static/css/main.48ee5008.chunk.css",
-    "static/js/main.75237035.chunk.js"
+    "static/js/main.b98526fe.chunk.js"
   ]
 }

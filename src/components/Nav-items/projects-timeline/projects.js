@@ -22,6 +22,8 @@ import L_ChatBot from '../../../assets/img/projects/chatbot.jpg'
 import L_TAXI from '../../../assets/img/projects/taxi.jpg'
 import Profile from '../../../assets/img/projects/portfolio.webp'
 import ToDoApp from '../../../assets/img/projects/todoapp.jpeg'
+import reactRedux from '../../../assets/img/skills/react-redux.png';
+import Memory from '../../../assets/img/projects/memory.webp';
 
 const Project = () => {
     return (
@@ -31,6 +33,117 @@ const Project = () => {
             <h1 className="pt-3 text-center font-details-b pb-3 custom">PROJECTS</h1>
             <Timeline>
                 <Events>
+
+                        {/* Project: Memories - App */}
+
+                <ImageEvent
+                    className="text-center custom"
+                    text="Memory-App"
+                    src={Memory}
+                    alt="Memories"
+                >
+                        <div className="d-flex justify-content-between flex-column mt-1">
+                            <div>
+                                <Accordion>
+                                    <Card>
+                                        <Accordion.Toggle
+                                        as={Card.Header}
+                                        eventKey="0"
+                                        className="p-2 text-center accordian-main"
+                                        >
+                                        PROJECT DETAILS
+                                        </Accordion.Toggle>
+
+                                        <Accordion.Collapse eventKey="0" className="text-left"> 
+                                        <Card.Body>
+                                            <strong>Description:</strong> Memories App for storing all your memories
+                                            <hr />
+                                            <strong>Features:</strong>
+                                            <ul className="list-styles pt-1">
+                                            <li> Create, Update or Delete Memories </li>
+                                            <li> Option to Add image from your local system </li>
+                                            </ul>
+                                            <hr />
+                                            <strong>Tech used:</strong>
+
+                                            <ul>
+                                            <li>
+                                                <span className="p-2">
+                                                <Image
+                                                    src={L_REACT}
+                                                    alt="React"
+                                                    rounded
+                                                    className="image-style1 m-1"
+                                                ></Image>{" "}
+                                                React
+                                                </span>
+                                            </li>
+                                            <li>
+                                                <span className="p-2">
+                                                <Image
+                                                    src={reactRedux}
+                                                    alt="react-bootstrap"
+                                                    rounded
+                                                    className="image-style1 m-1"
+                                                ></Image>{" "}
+                                                React-Redux
+                                                </span>
+                                            </li>
+                                            <li>
+                                                <span className="p-2">
+                                                <Image
+                                                    src={L_NODE_JS}
+                                                    alt="Nodejs"
+                                                    rounded
+                                                    className="image-style1 m-1"
+                                                ></Image>{" "}
+                                                Nodejs
+                                                </span>
+                                            </li>
+
+                                            <li>
+                                                <span className="p-2">
+                                                <Image
+                                                    src={L_EXPRESS}
+                                                    alt="Nodejs"
+                                                    rounded
+                                                    className="image-style1 m-1"
+                                                ></Image>{" "}
+                                                Expressjs
+                                                </span>
+                                            </li>
+                                            
+                                            <li>
+                                                <span className="p-2">
+                                                <Image
+                                                    src={L_MONGODB}
+                                                    alt="Nodejs"
+                                                    rounded
+                                                    className="image-style1 m-1"
+                                                ></Image>{" "}
+                                                MongoDB
+                                                </span>
+                                            </li>
+
+                                            </ul>
+                                        </Card.Body>
+                                        </Accordion.Collapse>
+                                    </Card>
+                                </Accordion>
+                                    
+                            </div>
+                            <div className="d-flex justify-content-between flex-nowrap text-center">
+                                  
+                                    <UrlButton
+                                    href="https://github.com/reapedjuggler/Memories-App"
+                                    target="_blank"
+                                    >
+                                    Github Repository
+                                    </UrlButton>
+    
+                                </div>
+                                </div>
+                    </ImageEvent>
 
                     {/* Project: Todo List With MERN stack */}
                     <ImageEvent
@@ -399,9 +512,6 @@ const Project = () => {
                                 </div>
                                 </div>
                             </ImageEvent>
-
-
-
 
                 </Events>
             </Timeline>

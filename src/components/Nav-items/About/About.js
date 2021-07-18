@@ -55,7 +55,7 @@ function About() {
 									<Col className="d-flex justify-content-center flex-wrap">
 										<div>
 											<a
-												href="https://drive.google.com/file/d/158wzFCSFyz5H6-N1CX6yshGO8FLbQeu3/view?usp=sharing"
+												href="https://drive.google.com/file/d/1xVSXCcao59dBg-uGgpSe_tAEp11uz_i5/view?usp=sharing"
 												target="_blank"
 												rel="noopener noreferrer"
 											>
@@ -145,6 +145,22 @@ function About() {
 													size="lg"
 												>
 													&nbsp; Code Chef
+												</Button>
+											</a>
+										</div>
+
+										<div>
+											<a
+												href="https://www.hackerrank.com/reaped_juggler"
+												target="_blank"
+												rel="noopener noreferrer"
+											>
+												<Button
+													className="m-2 fab"
+													variant="outline-primary"
+													size="lg"
+												>
+													&nbsp; HackerRank
 												</Button>
 											</a>
 										</div>

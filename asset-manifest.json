@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.48ee5008.chunk.css",
-    "main.js": "/portfolio/static/js/main.2e80bebb.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.2e80bebb.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.b09d158f.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b09d158f.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.c696b2ec.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.c696b2ec.js.map",
     "static/js/2.d9754848.chunk.js": "/portfolio/static/js/2.d9754848.chunk.js",
@@ -41,12 +41,13 @@
     "static/media/slide99.87561e4a.jpg": "/portfolio/static/media/slide99.87561e4a.jpg",
     "static/media/styled-components.2e00d138.svg": "/portfolio/static/media/styled-components.2e00d138.svg",
     "static/media/taxi.f969214a.jpg": "/portfolio/static/media/taxi.f969214a.jpg",
-    "static/media/todoapp.2efe2a79.jpeg": "/portfolio/static/media/todoapp.2efe2a79.jpeg"
+    "static/media/todoapp.2efe2a79.jpeg": "/portfolio/static/media/todoapp.2efe2a79.jpeg",
+    "static/media/typescript.c4105801.png": "/portfolio/static/media/typescript.c4105801.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c696b2ec.js",
     "static/js/2.d9754848.chunk.js",
     "static/css/main.48ee5008.chunk.css",
-    "static/js/main.2e80bebb.chunk.js"
+    "static/js/main.b09d158f.chunk.js"
   ]
 }

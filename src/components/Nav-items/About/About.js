@@ -35,9 +35,9 @@ function About() {
 									</h3>
 									<br /> A curious programmer with an endless appetite for
 									learning, I'm a Sport Programmer and a Web Developer from New
-									Delhi, India. Currently I am exploring stuff as an
-									undergraduate in Computer Science Engineering at Jaypee
+									Delhi, India.I am an undergraduate in Computer Science Engineering at Jaypee
 									Institute of Information Technology Noida.
+									Currently I'm exploring Cloud Native Ecosystem.
 									<br /> <br />
 									I am always passionate about helping people through my problem
 									solving skills and thus, I believe in growing as a team.

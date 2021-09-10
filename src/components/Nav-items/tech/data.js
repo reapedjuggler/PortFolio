@@ -18,6 +18,7 @@ import L_JQUERY from "../../../assets/img/skills/jqeury.png";
 import L_MYSQL from "../../../assets/img/skills/mysql.png";
 import CPP from "../../../assets/img/skills/cpp.jpg";
 import reactRedux from "../../../assets/img/skills/react-redux.png";
+import typescript from "../../../assets/img/skills/typescript.png";
 
 export const tech = {
 	frontend: [
@@ -119,6 +120,13 @@ export const tech = {
 			alt: "JavaScript",
 			imgSrc: L_JAVASCRIPT,
 			name: "JavaScript",
+		},
+
+		{
+			link: "https://www.typescriptlang.org/",
+			alt: "TypeScript",
+			imgSrc: typescript,
+			name: "TypeScript",
 		},
 
 		{

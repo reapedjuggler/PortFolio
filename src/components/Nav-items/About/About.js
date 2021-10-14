@@ -55,7 +55,7 @@ function About() {
 									<Col className="d-flex justify-content-center flex-wrap">
 										<div>
 											<a
-												href="https://drive.google.com/file/d/18fZc5W6eUn8L4StshHqHyfFBRPIao4z5/view?usp=sharing"
+												href="https://drive.google.com/file/d/1FCxopwQ7a7o5JyPlKbc9zLqYQv9Jl5yx/view?usp=sharing"
 												target="_blank"
 												rel="noopener noreferrer"
 											>

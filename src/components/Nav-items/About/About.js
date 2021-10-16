@@ -31,7 +31,7 @@ function About() {
 							<Row className=" align-items-start p-2 my-details rounded">
 								<div className="desc">
 									<h3>
-										<strong>Hello folk! I'm Vibhav</strong>
+										<strong>Hello folks! I'm Vibhav</strong>
 									</h3>
 									<br /> A curious programmer with an endless appetite for
 									learning, I'm a Sport Programmer and a Web Developer from New

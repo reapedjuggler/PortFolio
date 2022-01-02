@@ -36,8 +36,8 @@ function About() {
 									<br /> A curious programmer with an endless appetite for
 									learning currently completing my UG at Jaypee Institute of
 									Information Technology, I'm a Sport Programmer and a Web
-									Developer from New Delhi, India. Along with skilled in Data
-									Structures and Algorithms, I majorly work on back-end
+									Developer from New Delhi, India. Along with being skilled in
+									Data Structures and Algorithms, I majorly work on back-end
 									development with MERN stack, Currently I'm working as a
 									Back-End intern at Moyyn Germany and looking for summer intern
 									opportunities.

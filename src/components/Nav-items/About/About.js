@@ -34,17 +34,19 @@ function About() {
 										<strong>Hello folks! I'm Vibhav</strong>
 									</h3>
 									<br /> A curious programmer with an endless appetite for
-									learning, I'm a Sport Programmer and a Web Developer from New
-									Delhi, India.I am an undergraduate in Computer Science
-									Engineering at Jaypee Institute of Information Technology
-									Noida. Currently I'm exploring Cloud Native Ecosystem.
+									learning currently completing my UG at Jaypee Institute of
+									Information Technology, I'm a Sport Programmer and a Web
+									Developer from New Delhi, India. Along with skilled in Data
+									Structures and Algorithms, I majorly work on back-end
+									development with MERN stack, Currently I'm working as a
+									Back-End intern at Moyyn Germany and looking for summer intern
+									opportunities.
 									<br /> <br />
 									I am always passionate about helping people through my problem
 									solving skills and thus, I believe in growing as a team.
 									<br /> <br />
-									Along with Sport Programming, Reading Books, Watching Anime,
-									Chess, Speed-Cubing, Table-Tennis and Music are my other
-									hobbies.
+									Along with Sport Programming I have also won American Express
+									Codestreet 2021 hackathon.
 									<br /> <br /> Being always involved in something, I am always
 									curious to learn about new technology and leverage it to solve
 									real world problems.
@@ -55,7 +57,7 @@ function About() {
 									<Col className="d-flex justify-content-center flex-wrap">
 										<div>
 											<a
-												href="https://drive.google.com/file/d/1FCxopwQ7a7o5JyPlKbc9zLqYQv9Jl5yx/view?usp=sharing"
+												href="https://drive.google.com/file/d/1PK8pOG14DiPBFtnQ7GUU9VTsqhvtYPO1/view?usp=sharing"
 												target="_blank"
 												rel="noopener noreferrer"
 											>

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.48ee5008.chunk.css",
-    "main.js": "/portfolio/static/js/main.9ea54349.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.9ea54349.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.c680ebef.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c680ebef.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.c696b2ec.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.c696b2ec.js.map",
-    "static/js/2.d9754848.chunk.js": "/portfolio/static/js/2.d9754848.chunk.js",
-    "static/js/2.d9754848.chunk.js.map": "/portfolio/static/js/2.d9754848.chunk.js.map",
+    "static/js/2.6a6b41a4.chunk.js": "/portfolio/static/js/2.6a6b41a4.chunk.js",
+    "static/js/2.6a6b41a4.chunk.js.map": "/portfolio/static/js/2.6a6b41a4.chunk.js.map",
     "static/js/3.9083f3ff.chunk.js": "/portfolio/static/js/3.9083f3ff.chunk.js",
     "static/js/3.9083f3ff.chunk.js.map": "/portfolio/static/js/3.9083f3ff.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/main.48ee5008.chunk.css.map": "/portfolio/static/css/main.48ee5008.chunk.css.map",
-    "static/js/2.d9754848.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d9754848.chunk.js.LICENSE.txt",
+    "static/js/2.6a6b41a4.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6a6b41a4.chunk.js.LICENSE.txt",
     "static/media/contact.css": "/portfolio/static/media/background.48c0b661.webp",
     "static/media/bootstrap-4.997c463d.svg": "/portfolio/static/media/bootstrap-4.997c463d.svg",
     "static/media/catbg.d22ee647.png": "/portfolio/static/media/catbg.d22ee647.png",
@@ -24,6 +24,7 @@
     "static/media/html-5.821ba738.svg": "/portfolio/static/media/html-5.821ba738.svg",
     "static/media/javascript.ba40d6a9.svg": "/portfolio/static/media/javascript.ba40d6a9.svg",
     "static/media/jqeury.6d21b03d.png": "/portfolio/static/media/jqeury.6d21b03d.png",
+    "static/media/kyc.60807ffa.png": "/portfolio/static/media/kyc.60807ffa.png",
     "static/media/lfVWBmiW_400x400.114520ac.png": "/portfolio/static/media/lfVWBmiW_400x400.114520ac.png",
     "static/media/logo.549cefa0.jpg": "/portfolio/static/media/logo.549cefa0.jpg",
     "static/media/memory.141ca0a2.webp": "/portfolio/static/media/memory.141ca0a2.webp",
@@ -46,8 +47,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c696b2ec.js",
-    "static/js/2.d9754848.chunk.js",
+    "static/js/2.6a6b41a4.chunk.js",
     "static/css/main.48ee5008.chunk.css",
-    "static/js/main.9ea54349.chunk.js"
+    "static/js/main.c680ebef.chunk.js"
   ]
 }

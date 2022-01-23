@@ -34,30 +34,26 @@ function About() {
 										<strong>Hello folks! I'm Vibhav</strong>
 									</h3>
 									<br /> A curious programmer with an endless appetite for
-									learning currently completing my UG at Jaypee Institute of
-									Information Technology, I'm a Sport Programmer and a Web
-									Developer from New Delhi, India. Along with being skilled in
-									Data Structures and Algorithms, I majorly work on back-end
-									development with MERN stack, Currently I'm working as a
-									Back-End intern at Moyyn Germany and looking for summer intern
-									opportunities.
+									learning, currently I'm completing my B.tech in Computer
+									Science from Jaypee Institute of Information Technology, I am
+									skilled in Data structures, Algorithms and Back-end
+									development, I primarily work on MERN stack but I am always
+									open to work with new technologies.
 									<br /> <br />
-									I am always passionate about helping people through my problem
-									solving skills and thus, I believe in growing as a team.
-									<br /> <br />
-									Along with Sport Programming I have also won American Express
-									Codestreet 2021 hackathon.
+									Along with Sport Programming I also take part in hackathons
+									and I've also won American Express Codestreet 2021 hackathon.
 									<br /> <br /> Being always involved in something, I am always
 									curious to learn about new technology and leverage it to solve
 									real world problems.
 									<br />
-									Feel free to contact me through twitter, email, linkedIn. I
-									would be glad if I can help you in any possible way.
+									Feel free to contact me through my resume or social-handles
+									provided below. I would be glad if I can help you in any
+									possible way.
 									<br />
 									<Col className="d-flex justify-content-center flex-wrap">
 										<div>
 											<a
-												href="https://drive.google.com/file/d/1PK8pOG14DiPBFtnQ7GUU9VTsqhvtYPO1/view?usp=sharing"
+												href="https://drive.google.com/file/d/1gASdynwVCVMlp956o7C2OGXfFjfs8A0H/view?usp=sharing"
 												target="_blank"
 												rel="noopener noreferrer"
 											>
